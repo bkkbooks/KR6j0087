@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0087/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 受五戒八戒文
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0916.xml
+    old_id: T18n0916
+hash: sha256:326e11ca1b2aaceff8085410037498f64a0ded933edba31b41eb80596808119f
