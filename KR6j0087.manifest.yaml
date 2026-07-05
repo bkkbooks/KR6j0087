@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0087_000.yaml, hash: 'sha256:326e11ca1b2aaceff8085410037498f64a0ded933edba31b41eb80596808119f'}
-  - {seq: 1, filename: KR6j0087_001.yaml, hash: 'sha256:71a80df14dacf48da388faddb40914ad558a7eda408f879d0178a850f9fd8759'}
+  - {seq: 1, filename: KR6j0087_001.yaml, hash: 'sha256:48d78043508bd2b7f2cc3d2e1af4852c1f8b78aa99f1042e446009e53bf45288'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0087_001.markers.yaml, hash: 'sha256:8bd5b61fa921149b796c94592d292cd122c69c75fea89014f11efff6a66f8e22'}
+  - {seq: 0, role: markers, filename: assets/KR6j0087_000.markers.yaml, hash: 'sha256:b87660b8a0c6b59fab6a8fb09419d069b45ee6f38822876b86dd6288056fbc60'}
+  - {seq: 1, role: markers, filename: assets/KR6j0087_001.markers.yaml, hash: 'sha256:a4ddaafedd673565f4cd4d1297e23e58f5c67fc5d849a97774c3324efa0b2311'}
 table_of_contents:
 - ref:
     seq: 1
@@ -159,7 +160,4 @@ table_of_contents:
   label: 5 迴向願海章
   type: mulu
   level: 1
-hash: sha256:c44de4db649ce34d28568e7733b13d897ab2e3dc3ce70749b0d8c39f497b7533
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3017476f926896da3525fae805cfa4ccbb99265d2f3ee16b65e81f96b7f628d7
